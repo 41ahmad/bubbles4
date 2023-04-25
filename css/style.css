@@ -918,3 +918,8 @@ footer {
 .button:hover {
   background-color: #555;
 }
+
+.card {
+    width: 80%;
+    margin: auto;
+}
