@@ -76,11 +76,6 @@ a:focus {
   transition: all 0.25s ease-out;
 }
 
-img {
-  width: 100%;
-  max-width: 100%;
-}
-
 
 /* preloader styles
 /* ========================================== */
