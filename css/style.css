@@ -873,7 +873,14 @@ footer {
   clear: both;
   display: table;
 }
-.column {
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto; 
+}
+
+.container {
   position: relative;
   width: 50%;
   max-width: 300px;
