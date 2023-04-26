@@ -937,3 +937,10 @@ dt {
     margin: auto;
     width: fit-content;
 }
+
+li{
+  margin:auto;
+  width: fit-content;
+   padding: 2px;
+ 
+}
