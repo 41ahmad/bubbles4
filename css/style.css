@@ -940,7 +940,7 @@ dt {
 
 li{
   margin:auto;
-  width: fit-content;
    padding: 2px;
+	font-size: medium;
  
 }
