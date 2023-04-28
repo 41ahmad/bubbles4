@@ -935,12 +935,13 @@ dl{
 }
 dt {
     margin: auto;
-    width: fit-content;
+    width: 50% fit-content;
 }
 
 li{
    padding: 2px;
 	font-size: medium;
-	width: fit-content;
+	width: 50%;
  
 }
+
