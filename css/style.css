@@ -941,7 +941,7 @@ dt {
 li{
    padding: 2px;
 	font-size: medium;
-	width: 50%;
+	width: 50% fit-content;
  
 }
 
